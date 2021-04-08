@@ -1,19 +1,31 @@
 {
-  "products": [
+  "posts": [
     {
-      "title": "About 1",
-      "subtitle": "Última versão dos 111componentes",
-      "to": "/About"
+      "id": 1,
+      "title": "Post 1"
     },
     {
-      "title": "More 2",
-      "subtitle": "Mais detalhes 2222 sobre os componentes",
-      "to": "/More"
+      "id": 2,
+      "title": "Post 2"
     },
     {
-      "title": "More 3",
-      "subtitle": "Mais detalhes 333 sobre os componentes",
-      "to": "/More"
+      "id": 3,
+      "title": "Post 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
