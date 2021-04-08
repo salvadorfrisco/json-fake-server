@@ -1,21 +1,21 @@
 {
   "products": [
     {
-      "key": 7648,
+      "id": 7648,
       "title": "Banco ABC Brasil S/A",
       "subtitle": "Renda Fixa 111% CDI",
       "image": "https://www.sindbancarios.org.br/wp-content/uploads/2018/09/banco_abc-564x350.jpg",
       "to": "/Invest"
     },
     {
-      "key": 7670,
+      "id": 7670,
       "title": "Banco Agibank S/A",
       "subtitle": "Renda Fixa 110% CDI",
       "image": "https://logospng.org/download/agibank/logo-agibank-icon-256.png",
       "to": "/Invest"
     },
     {
-      "key": 7682,
+      "id": 7682,
       "title": "Banco BS2 S/A",
       "subtitle": "Renda Fixa 106% CDI",
       "image": "https://storage.googleapis.com/wp-noticias/2019/10/05acb76f-cym1r40i_400x400.png",
