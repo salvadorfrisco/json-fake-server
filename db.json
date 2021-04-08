@@ -1,4 +1,5 @@
-[
+{
+  "products": [
     {
       "title": "About 1",
       "subtitle": "Última versão dos 111componentes",
@@ -14,4 +15,5 @@
       "subtitle": "Mais detalhes 333 sobre os componentes",
       "to": "/More",
     },
-]
+  ]
+}
