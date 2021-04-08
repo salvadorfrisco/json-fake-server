@@ -1,12 +1,12 @@
 [
     {
-      title: "About 1",
-      subtitle: "Última versão dos 111componentes",
-      to: "/About",
+      "title": "About 1",
+      "subtitle": "Última versão dos 111componentes",
+      "to": "/About",
     },
     {
-      title: "More 2",
-      subtitle: "Mais detalhes 2222 sobre os componentes",
-      to: "/More",
+      "title": "More 2",
+      "subtitle": "Mais detalhes 2222 sobre os componentes",
+      "to": "/More",
     },
-  ]
+]
