@@ -1,16 +1,31 @@
 {
-  "products": [
+  "posts": [
     {
-      "title": 1,
-      "title1": "Post 1"
+      "id": 1,
+      "title": "PostA 1"
     },
     {
-      "title": 2,
-      "title1": "Post 2"
+      "id": 2,
+      "title": "Post BB2"
     },
     {
-      "title": 3,
-      "title1": "Post 3"
+      "id": 3,
+      "title": "Post CC3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some cwomment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "somewwwww commwwent",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typico22323de"
+  }
 }
