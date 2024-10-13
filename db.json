@@ -26,5 +26,19 @@
       "id": "06",
       "todoText": "Dinner with Jenny"
     }
+  ],
+  "tipo_veiculo": [
+    {
+      "id": "01",
+      "description": "Leve",
+    },
+    {
+      "id": "02",
+      "description": "SUV, caminhonete",
+    },
+    {
+      "id": "03",
+      "description": "Moto",
+    }
   ]
 }
