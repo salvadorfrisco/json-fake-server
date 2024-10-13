@@ -32,15 +32,15 @@
   "tipo_veiculo": [
     {
       "id": "01",
-      "description": "Leve",
+      "description": "Leve"
     },
     {
       "id": "02",
-      "description": "SUV, caminhonete",
+      "description": "SUV, caminhonete"
     },
     {
       "id": "03",
-      "description": "Moto",
+      "description": "Moto"
     }
   ]
 }
